@@ -23,8 +23,14 @@
 			<ul>
 				<li>Provide Information To Parents Of Children With Devilitating Seizure Disorders Such As Dravet Syndrome.</li>
 				<li>Provide a site where parents can post questions or link up with other parents and discuss concerns and get answers to their questions. </li>
-				<li></li>
+				<li>Provide links to web sites or videos related to the subject.</li>
 			</ul>
+		</section>
+
+		<section>
+			<h1>Persona</h1>
+			<h3>Name:</h3>
+			Alondra Paula Mercedes
 		</section>
 	</body>
 </html>
