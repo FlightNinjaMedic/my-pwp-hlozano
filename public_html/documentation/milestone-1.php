@@ -40,7 +40,7 @@
 
 		<section>
 			<h1>Use Case:</h1>
-			It is 14:00 hours on a weekday, it's been two weeks since Paula was informed of the diagnosis of her child and not only did she get a second opinion, refusing to believe the confirmation of such diagnosis, Paula took the infant to numerous other pediatricians who like the first two confirmed Dravet syndrome. Paula surfs to the site on her MacBook Air determined to educate herself on all there is to know on this syndrome and is impressed by the large number of resources available to her at the click of a button. Whithin minutes Paula is able to navigate thru the page with ease. She also signs up on a blog group which provides first hand experience information on the use of the Rick Simpson and concentrted hemp oil and the results of such treatment.
+			It is 14:00 hours on a weekday, it's been two weeks since Paula was informed of the diagnosis of her child and not only did she get a second opinion, refusing to believe the confirmation of such diagnosis, Paula took the infant to numerous other pediatricians who like the first two confirmed Dravet syndrome. Paula surfs to the site on her MacBook Air determined to educate herself on all there is to know on this syndrome and is impressed by the large number of resources available to her at the click of a button. Whithin minutes Paula is able to navigate thru the page with ease. She also signs up on a blog group which provides first hand experience information, by the parents/guardians of patients, on the use of the Rick Simpson and concentrted hemp oil and the results of such treatment.
 		</section>
 	</body>
 </html>
