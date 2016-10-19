@@ -30,7 +30,11 @@
 		<section>
 			<h1>Persona</h1>
 			<h3>Name:</h3>
-			Alondra Paula Mercedes
+			Alondra Paula Mercedes is a 35 year old middle class female. She is a part-time flight attendant and single mother of an 18 month old infant who was recently diagnosed as having Dravet Syndrome. She is an Apple products lover and currently owns an iPhone 7 with Verizon as her mobile service provider and she's currently on a 10GB data plan. She also owns a second generation iPad mini and a 13 in MacBook Air.
+		</section>
+
+		<section>
+			<h1>Use Case:</h1>
 		</section>
 	</body>
 </html>
