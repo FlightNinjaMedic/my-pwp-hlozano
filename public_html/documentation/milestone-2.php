@@ -16,6 +16,6 @@
 			In this section the user will have the option to join our mailing list and even have the option to be contacted by us by either e-mail or phone call.
 		</p>
 		<img src="../images/pwp1.png" alt="pwp1"> <img src="../images/pwp2.png" alt="pwp2">
-		<img src="../images/pwp3.png" alt="pwp1"> <img src="../images/pwp4.png" alt="pwp2">
+		<img src="../images/pwp3.png" alt="pwp3"> <img src="../images/pwp4.png" alt="pwp4">
 	</body>
 	</html>
