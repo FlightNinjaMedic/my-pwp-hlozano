@@ -2,10 +2,10 @@
 	<html lang="en">
 	<head>
 		<meta charset="utf-8">
-
+		<header><h1>The Medical Cannabis Advocate Site</h1></header>
 		<title> Hector's Page</title>
 	</head>
-	<header><h1>The Medical Cannabis Advocate Site</h1></header>
+
 
 	<body>
 		<section>
