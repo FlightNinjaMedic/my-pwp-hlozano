@@ -15,6 +15,7 @@
 		<p>
 			In this section the user will have the option to join our mailing list and even have the option to be contacted by us by either e-mail or phone call.
 		</p>
+		<img src="">
 
 	</body>
 	</html>
