@@ -31,16 +31,19 @@
 		<section>
 			<h1>Persona</h1>
 			<h3>Name:</h3>
-			Alondra Paula Mercedes is a 35 year old middle class female. Who goes by her middle name. She is a part-time flight attendant and single mother of an 18 month old infant who was recently diagnosed as having Dravet Syndrome. She is an Apple products lover and currently owns an iPhone 7 with Verizon as her mobile service provider and she's currently on a 10GB data plan. She also owns a second generation iPad mini and a 13 in MacBook Air.
+			<p>Alondra Paula Mercedes is a 35 year old middle class female. Who goes by her middle name. She is a part-time flight attendant and single mother of an 18 month old infant who was recently diagnosed as having Dravet Syndrome. She is an Apple products lover and currently owns an iPhone 7 with Verizon as her mobile service provider and she's currently on a 10GB data plan. She also owns a second generation iPad mini and a 13 in MacBook Air.
+			</p>
 		</section>
 
 		<section>
-			Paula's greatest frustration is the limited knowledge she has on her childs condition and the conflicting advise she is getting from the infant's numerous pediatricians on the use of medical cannabis. She is tired of hearing how bad and damaging marihuana is and at the same time all the contradicting stories and how medical cannabis is the miracle drug for treating seizure disorders. The site's goal is to be a "one-stop-shop" site for any one looking to connect with parents of children who's condition has dramatically improved or has resolved by using the concentrated hemp oils or simply wanting to stay up to date with the latest news and study results on this life changing condition.
+			<p>Paula's greatest frustration is the limited knowledge she has on her childs condition and the conflicting advise she is getting from the infant's numerous pediatricians on the use of medical cannabis. She is tired of hearing how bad and damaging marihuana is and at the same time all the contradicting stories and how medical cannabis is the miracle drug for treating seizure disorders. The site's goal is to be a "one-stop-shop" site for any one looking to connect with parents of children who's condition has dramatically improved or has resolved by using the concentrated hemp oils or simply wanting to stay up to date with the latest news and study results on this life changing condition.
+			</p>
 		</section>
 
 		<section>
 			<h1>Use Case:</h1>
-			It is 14:00 hours on a weekday, it's been two weeks since Paula was informed of the diagnosis of her child and not only did she get a second opinion, refusing to believe the confirmation of such diagnosis, Paula took the infant to numerous other pediatricians who like the first two confirmed Dravet syndrome. Paula surfs to the site on her MacBook Air determined to educate herself on all there is to know on this syndrome and is impressed by the large number of resources available to her at the click of a button. Whithin minutes Paula is able to navigate thru the page with ease. She also signs up on a blog group which provides first hand experience information, by the parents/guardians of patients, on the use of the Rick Simpson and concentrated hemp oil and the results of such treatment.
+			<p>It is 14:00 hours on a weekday, it's been two weeks since Paula was informed of the diagnosis of her child and not only did she get a second opinion, refusing to believe the confirmation of such diagnosis, Paula took the infant to numerous other pediatricians who like the first two confirmed Dravet syndrome. Paula surfs to the site on her MacBook Air determined to educate herself on all there is to know on this syndrome and is impressed by the large number of resources available to her at the click of a button. Whithin minutes Paula is able to navigate thru the page with ease. She also signs up on a blog group which provides first hand experience information, by the parents/guardians of patients, on the use of the Rick Simpson and concentrated hemp oil and the results of such treatment.
+			</p>
 		</section>
 	</body>
 </html>
