@@ -15,7 +15,7 @@
 		<p>
 			In this section the user will have the option to join our mailing list and even have the option to be contacted by us by either e-mail or phone call.
 		</p>
-		<img src="">
+		<img src="images/pwpwframe2.png" alt="pwpwframe2">
 
 	</body>
 	</html>
