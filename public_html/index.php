@@ -25,31 +25,64 @@
 
 
 			<div class="container-fluid">
-
-
 				<div class="jumbotron">
-
 					<div class="row">
 						<div class="col-md-6">
 							<img src="images/medcan.jpg" alt="medcan">
 						</div>
 						<div class="col-md-6">
-							<h2>
+							<h3>
 								Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur
 								adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla
 								quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed
 								augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla.
-							</h2>
+							</h3>
 						</div>
 					</div>
+				</div>
+				<h1 class="text-center">The Medical Cannabis Site</h1>
+			</div>
+
+		<div class="container">
+			<div class="row">
+				<div class="col-md-4">
+					<p>
+						Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur
+						adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla
+						quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed
+						augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla.
+					</p>
+				</div>
+				<div class="col-md-4">
+					<img src="images/SmileyCann.jpg" alt="SmileyCann">
+				</div>
+				<div class="col-md-4">
+					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur
+					adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla
+					quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed
+					augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla.
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="col-md-6">
+					Do you have any questions or concerns
+					Do you have any questions or concerns
+					Do you have any questions or concerns
+				</div>
+				<div class="col-md-6">
+
+				Name:	<input type="text"><br>
+				E-Mail: <input type="email"><br>
+				Phone: <input type="tel" placeholder="Optional"><br>
 
 				</div>
 
 
 
+		</div>
 
 
-			</div>
 
 
 
