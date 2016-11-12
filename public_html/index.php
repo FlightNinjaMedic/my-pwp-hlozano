@@ -74,7 +74,8 @@
 
 				Name:	<input type="text"><br>
 				E-Mail: <input type="email"><br>
-				Phone: <input type="tel" placeholder="Optional"><br>
+				Phone: <input type="tel" placeholder="Optional"><br><br>
+				<textarea rows="10" cols="40" placeholder="Send us your questions or concerns in this space"></textarea>
 
 				</div>
 
