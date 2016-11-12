@@ -18,6 +18,10 @@
 		<script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
 		<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
 		<![endif]-->
+		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+		<!-- Include all compiled plugins (below), or include individual files as needed -->
+		<script src="js/bootstrap.min.js"></script>
 	</head>
 
 
@@ -63,7 +67,6 @@
 					augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla.
 				</div>
 			</div>
-
 			<div class="row">
 				<div class="col-md-6">
 					Do you have any questions or concerns
@@ -71,27 +74,25 @@
 					Do you have any questions or concerns
 				</div>
 				<div class="col-md-6">
-
-				Name:	<input type="text"><br>
-				E-Mail: <input type="email"><br>
-				Phone: <input type="tel" placeholder="Optional"><br><br>
-				<textarea rows="10" cols="40" placeholder="Send us your questions or concerns in this space"></textarea>
-
+					Name:	<input type="text"><br>
+					E-Mail: <input type="email"><br>
+					Phone: <input type="tel" placeholder="Optional"><br><br>
+					<textarea rows="10" cols="40" placeholder="Send us your questions or concerns in this space"></textarea>
 				</div>
+			</div>
+
+			<footer class="footer">
+				<div class="container">
+					<p class="text-muted">
+						Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur
+						adipiscing elit.
+					</p>
+				</div>
+			</footer>
 
 
 
 		</div>
-
-
-
-
-
-
-		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-		<!-- Include all compiled plugins (below), or include individual files as needed -->
-		<script src="js/bootstrap.min.js"></script>
 
 	</body>
 </html>
