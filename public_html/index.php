@@ -7,7 +7,7 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-		<title>The Medical Advocate</title>
+		<title>The Medical Advocate Site</title>
 
 		<!-- Latest compiled and minified CSS -->
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
@@ -24,9 +24,7 @@
 		<script src="js/bootstrap.min.js"></script>
 	</head>
 
-
 	<body>
-
 
 			<div class="container-fluid">
 				<div class="jumbotron">
@@ -46,7 +44,6 @@
 				</div>
 				<h1 class="text-center">The Medical Cannabis Site</h1>
 			</div>
-
 		<div class="container">
 			<div class="row">
 				<div class="col-md-4">
@@ -69,29 +66,30 @@
 			</div>
 			<div class="row">
 				<div class="col-md-6">
-					Do you have any questions or concerns
-					Do you have any questions or concerns
-					Do you have any questions or concerns
+					Do you have any questions or concerns?<br>
+					Would you like to be added to our mailing list?<br>
+					Please provide us with your information and one of our associates will contact you within 24 hrs!
 				</div>
 				<div class="col-md-6">
-					Name:	<input type="text"><br>
-					E-Mail: <input type="email"><br>
-					Phone: <input type="tel" placeholder="Optional"><br><br>
-					<textarea rows="10" cols="40" placeholder="Send us your questions or concerns in this space"></textarea>
+					<form>
+						Name:	<input type="text" id="name" name="name"><br><br>
+						E-Mail: <input type="email" id="email" name="email"><br><br>
+						Phone: <input type="tel" id="phone" name="phone" placeholder="Optional"><br><br>
+						<textarea rows="10" id="concerns" name="cancerns" cols="40" placeholder="Optional: Send us your questions or concerns in this space"></textarea><br>
+						<input type="submit" value="Send"><br><br><br>
+					</form>
 				</div>
 			</div>
-
-			<footer class="footer">
-				<div class="container">
-					<p class="text-muted">
+		</div>
+		<div class="container-fluid">
+			<footer class="footer" style="background: lightgreen; height:50px">
+				<div class="container text-center">
+					<p class="text-muted" >
 						Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur
 						adipiscing elit.
 					</p>
 				</div>
 			</footer>
-
-
-
 		</div>
 
 	</body>
