@@ -38,16 +38,17 @@
 						</div>
 					</div>
 				</div>
-				<h1 class="text-center">The Medical Advocate Cannabis Site</h1>
+				<h1 class="text-center">The Medical Cannabis Advocate Site</h1><br><br>
 			</div>
 		<div class="container">
 			<div class="row">
 				<div class="col-md-4">
 					<p>
-						Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur
-						adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla
-						quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed
-						augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla.
+						An Albuquerque baby girl with a unique type of epilepsy has gotten a medical cannabis card.
+						Amylea Nunez is now eight months old, but just two days after bringing her home from the hospital,
+						the Nunez family had their first scare. She has seizures, and now gets treatment in Aurora, Colorado
+						using a cannabis oil known to treat epilepsy in kids. Her mother says she is the youngest patient in
+						New Mexico to be cleared for medicinal marijuana use.
 					</p>
 				</div>
 				<div class="col-md-4">
@@ -59,7 +60,7 @@
 					quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed
 					augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla.
 				</div>
-			</div>
+			</div><br><br>
 			<div class="row">
 				<div class="col-md-6">
 					Do you have any questions or concerns?<br>
@@ -71,7 +72,7 @@
 						Name:	<input type="text" id="name" name="name"><br><br>
 						E-Mail: <input type="email" id="email" name="email"><br><br>
 						Phone: <input type="tel" id="phone" name="phone" placeholder="Optional"><br><br>
-						<textarea rows="10" id="concerns" name="cancerns" cols="40" placeholder="Optional: Send us your questions or concerns in this 	space"></textarea><br>
+						<textarea rows="10" id="concerns" name="cancerns" cols="40" placeholder="Optional: Send us your questions or concerns in this space"></textarea><br>
 						<input type="submit" value="Send"><br><br><br>
 					</form>
 				</div>
