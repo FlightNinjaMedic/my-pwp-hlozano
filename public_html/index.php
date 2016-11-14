@@ -34,8 +34,7 @@
 						</div>
 						<div class="col-md-6">
 							<h3>
-								The Medical Cannabis Advocate site comes to life with the purpose to educate and raise awareness on the benefits of 								medical cannabis and how succesful it is in treating life changing conditions such as PTSD, HIV/AIDS and epilepsy specifically 								a condition called Dravet Syndrome which is a rare genetic epileptic encephalopathy (dysfunction of the brain). It begins in 								the first year of life in an otherwise healthy infant.
-							</h3>
+								The Medical Cannabis Advocate site comes to life with the purpose to educate and raise public awareness on the benefits of 								medical cannabis and how succesful it is in treating life changing conditions such as PTSD, HIV/AIDS and epilepsy specifically 								a condition called Dravet Syndrome which is a rare genetic epileptic encephalopathy (dysfunction of the brain). It begins in 								the first year of life in an otherwise healthy infant. The above being only three of twenty qualifying conditons in the New 								Mexico Medical Cannabis program. As a former NAVY corpsman veteran suffering from PTSD, and a current and very active user of 								medical cannabis, I can positively testify to the
 						</div>
 					</div>
 				</div>
@@ -72,7 +71,7 @@
 						Name:	<input type="text" id="name" name="name"><br><br>
 						E-Mail: <input type="email" id="email" name="email"><br><br>
 						Phone: <input type="tel" id="phone" name="phone" placeholder="Optional"><br><br>
-						<textarea rows="10" id="concerns" name="cancerns" cols="40" placeholder="Optional: Send us your questions or concerns in this    						space"></textarea><br>
+						<textarea rows="10" id="concerns" name="cancerns" cols="40" placeholder="Optional: Send us your questions or concerns in this 	space"></textarea><br>
 						<input type="submit" value="Send"><br><br><br>
 					</form>
 				</div>
