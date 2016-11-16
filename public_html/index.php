@@ -82,12 +82,16 @@
 			<footer class="footer" style="background: lightgreen; height:50px">
 				<div class="container text-center">
 					<p class="text-muted" >
-						Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur
+						Copyright 2016 Yadohkya-Coders
 						adipiscing elit.
 					</p>
 				</div>
 			</footer>
 		</div>
-
+		<div>
+			<tr>
+				<td width="20%"><a href</td>
+			</tr>
+		</div>
 	</body>
 </html>
