@@ -9,6 +9,7 @@
 		<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 		<title>The Medical Advocate Site</title>
 
+
 		<!-- Latest compiled and minified CSS -->
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
@@ -34,7 +35,7 @@
 						</div>
 						<div class="col-md-6">
 							<h3>
-								The Medical Cannabis Advocate site comes to life with the purpose to educate and raise public awareness on the benefits of 								medical cannabis and how succesful it is in treating life changing conditions such as PTSD, HIV/AIDS and epilepsy specifically 								a condition called Dravet Syndrome which is a rare genetic epileptic encephalopathy (dysfunction of the brain). It begins in 								the first year of life in an otherwise healthy infant. The above being only three of twenty qualifying conditons in the New 								Mexico Medical Cannabis program. As a former NAVY corpsman veteran suffering from PTSD, and a current and very active user of 								medical cannabis, I can positively testify to how medical cannabis has improved my quality of life.
+								The Medical Cannabis Advocate site comes to life with the purpose to educate and raise public awareness on the benefits of medical cannabis and how succesful it is in treating life changing conditions such as PTSD, HIV/AIDS and epilepsy specifically 								a condition called Dravet Syndrome which is a rare genetic epileptic encephalopathy (dysfunction of the brain). It begins in 								the first year of life in an otherwise healthy infant. The above being only three of twenty qualifying conditons in the New 								Mexico Medical Cannabis program. As a former NAVY corpsman veteran suffering from PTSD, and a current and very active user of 								medical cannabis, I can positively testify to how medical cannabis has improved my quality of life.
 						</div>
 					</div>
 				</div>
@@ -42,7 +43,7 @@
 			</div>
 		<div class="container">
 			<div class="row">
-				<div class="col-md-4">
+				<div class="col-md-3">
 					<p>
 						An Albuquerque baby girl with a unique type of epilepsy has gotten a medical cannabis card.
 						Amylea Nunez is now eight months old, but just two days after bringing her home from the hospital,
@@ -51,10 +52,13 @@
 						New Mexico to be cleared for medicinal marijuana use.
 					</p>
 				</div>
-				<div class="col-md-4">
+				<div class="col-md-3">
 					<img src="images/8monthAmylea.jpg" alt="8monthAmylea">
 				</div>
-				<div class="col-md-4">
+				<div class="col-md-3">
+					<img src="images/rambohm.jpg" alt="rambohm">
+				</div>
+				<div class="col-md-3">
 					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur
 					adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla
 					quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed
