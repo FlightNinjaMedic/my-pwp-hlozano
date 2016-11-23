@@ -7,7 +7,7 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-		<title>The Medical Advocate Site</title>
+		<title>The Medical Cannabis Advocate Site</title>
 
 
 		<!-- Latest compiled and minified CSS -->
@@ -23,13 +23,19 @@
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 		<!-- Include all compiled plugins (below), or include individual files as needed -->
 		<script src="js/bootstrap.min.js"></script>
+<!--		<meta rel="stylesheet" type="text/css" href="css/boxmodel.css"/>-->
+		<link type="text/css" href="css/boxmodel.css" rel="stylesheet" />
+
+
 	</head>
 
 	<body>
-
-			<div class="container-fluid">
-				<div class="jumbotron">
-					<div class="row">
+		<div id="outerBox">
+			<div id="middleBox">
+				<div id="innerBox">
+					<div class="container-fluid">
+						<div class="jumbotron">
+							<div class="row">
 						<div class="col-md-6">
 							<img src="images/medcan.jpg" alt="medcan">
 						</div>
@@ -39,6 +45,8 @@
 						</div>
 					</div>
 				</div>
+
+
 				<h1 class="text-center">The Medical Cannabis Advocate Site</h1><br><br>
 			</div>
 		<div class="container">
@@ -92,6 +100,9 @@
 			<tr>
 				<td width="20%"><a href</td>
 			</tr>
-		</div>
+				</div>
+					</div>
+				</div>
+			</div>
 	</body>
 </html>
