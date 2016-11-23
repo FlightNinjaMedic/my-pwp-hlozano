@@ -53,7 +53,7 @@
 					</p>
 				</div>
 				<div class="col-md-3">
-					<img src="images/8monthAmylea.jpg" alt="8monthAmylea">
+					<img src="images/8monthAmylea1.jpg" alt="8monthAmylea1">
 				</div>
 				<div class="col-md-3">
 					<img src="images/rambohm1.jpg" alt="rambohm1">
