@@ -53,10 +53,10 @@
 					</p>
 				</div>
 				<div class="col-md-3">
-					<img src="images/8monthAmylea1.jpg" alt="8monthAmylea1">
+					<img-responsive src="images/8monthAmylea1.jpg" alt="8monthAmylea1">
 				</div>
 				<div class="col-md-3">
-					<img src="images/rambohm1.jpg" alt="rambohm1">
+					<img-responsive src="images/rambohm1.jpg" alt="rambohm1">
 				</div>
 				<div class="col-md-3">
 					Local resident, medical cannabis card holder and developer of The Medical Cannabis Advocate Site, Hector Lozano, is now in his third year using medical cannabis products to treat PTSD. Mr Lozano is a 51 year old former navy corpsman with two deployments in support of Operation Iraqi Freedom and Operation Endurng Freedom. Mr Lozano also enjoyed a rewarding and sucessful career as a field paramedic, emergency room paramedic and crirical care flight paramedic
