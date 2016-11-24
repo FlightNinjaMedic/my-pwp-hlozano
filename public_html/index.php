@@ -48,7 +48,7 @@
 				<h1 class="marquee"><span>The Medical Cannabis Advocate Site</span></h1><br><br>
 			</div>
 					<fieldset>
-						<legend><h3>Stories From Around New Mexico</h3></legend>
+						<legend>Stories From Around New Mexico</legend>
 		<div class="container">
 			<div class="row">
 				<div class="col-md-3">
@@ -72,7 +72,7 @@
 			</div><br><br>
 					</fieldset>
 					<fieldset>
-						<legend><h3>Cases From Around The Nation</h3></legend>
+						<legend>Cases From Around The Nation</legend>
 						<div class="row">
 							<div class="col-md-6">
 								<div class="embed-responsive embed-responsive-16by9">
@@ -95,7 +95,7 @@
 						<input id="Email" type="text" name="Email" size="36" required ><br><br>
 						<label for="Phone">Phone:</label>
 						<input id="Phone" type="text" name="Phone"size="35" placeholder="Optional"><br><br>
-						<textarea rows="10" id="concerns" name="concerns" cols="40" placeholder="Optional: Send us your questions or concerns in this space"></textarea><br>
+						<textarea rows="10" id="comments" name="comments" cols="40" placeholder="Optional:Questions or Comments"></textarea><br>
 						<input type="submit" value="Send"><br><br><br>
 					</form>
 				</div>
