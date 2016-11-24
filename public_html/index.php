@@ -89,9 +89,12 @@
 				</div>
 				<div class="col-md-6">
 					<form>
-						Name:	<input type="text" id="name" name="name"><br><br>
-						E-Mail: <input type="email" id="email" name="email"><br><br>
-						Phone: <input type="tel" id="phone" name="phone" placeholder="Optional"><br><br>
+						<label for="Name">Name:</label>
+						<input id="Name" type="text" name="Name" size="35" placeholder="John Doe"><br><br>
+						<label for="Email">Email:</label>
+						<input id="Email" type="text" name="Email" size="36" required ><br><br>
+						<label for="Phone">Phone:</label>
+						<input id="Phone" type="text" name="Phone"size="35" placeholder="Optional"><br><br>
 						<textarea rows="10" id="concerns" name="concerns" cols="40" placeholder="Optional: Send us your questions or concerns in this space"></textarea><br>
 						<input type="submit" value="Send"><br><br><br>
 					</form>
@@ -108,12 +111,9 @@
 			</footer>
 		</div>
 		<div>
-			<tr>
-				<td width="30%"><a href</td>
-			</tr>
-				</div>
-					</div>
+			<td width="30%"><a href</td>
+		</div>
 			</div>
-			</div>
+		</div>
 	</body>
 </html>
