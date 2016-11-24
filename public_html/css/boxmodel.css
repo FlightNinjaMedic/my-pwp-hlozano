@@ -31,14 +31,14 @@ body {
 
 div#outerBox {
 	border: 2px solid black;
-	background-color: yellowgreen;
+	background-color: yellow;
 }
 
 div#middleBox {
 	padding: 5px;
 	border: 5px dashed silver;
 	margin: 5px;
-	background-color: lightgoldenrodyellow ;
+	background-color: lightgreen ;
 }
 
 div.col-md-3 > img{

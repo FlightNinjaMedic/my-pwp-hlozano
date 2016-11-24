@@ -83,7 +83,7 @@
 					</fieldset>
 			<div class="row">
 				<div class="col-md-6">
-					Do you have any questions or concerns?<br>
+					Do you have any questions or comments?<br>
 					Would you like to be added to our mailing list?<br>
 					Please provide us with your information and one of our associates will contact you within 24 hrs!
 				</div>
