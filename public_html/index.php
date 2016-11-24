@@ -47,6 +47,8 @@
 				</div>
 				<h1 class="marquee"><span>The Medical Cannabis Advocate Site</span></h1><br><br>
 			</div>
+					<fieldset>
+						<legend><h3>Stories From Around New Mexico</h3></legend>
 		<div class="container">
 			<div class="row">
 				<div class="col-md-3">
@@ -68,6 +70,9 @@
 					Local Albuquerque resident, medical cannabis card holder and developer of The Medical Cannabis Advocate Site, Hector Lozano, is now in his third year using medical cannabis products to treat PTSD. Mr Lozano is a 51 year old former navy corpsman with two deployments in support of Operation Iraqi Freedom and Operation Enduring Freedom. Mr Lozano also enjoyed a rewarding and sucessful career as a field paramedic, emergency room paramedic and crirical care flight paramedic
 				</div>
 			</div><br><br>
+					</fieldset>
+					<fieldset>
+						<legend><h3>Cases From Around The Nation</h3></legend>
 						<div class="row">
 							<div class="col-md-6">
 								<div class="embed-responsive embed-responsive-16by9">
@@ -75,6 +80,7 @@
 								</div>
 							</div>
 						</div><br><br>
+					</fieldset>
 			<div class="row">
 				<div class="col-md-6">
 					Do you have any questions or concerns?<br>
@@ -86,7 +92,7 @@
 						Name:	<input type="text" id="name" name="name"><br><br>
 						E-Mail: <input type="email" id="email" name="email"><br><br>
 						Phone: <input type="tel" id="phone" name="phone" placeholder="Optional"><br><br>
-						<textarea rows="10" id="concerns" name="cancerns" cols="40" placeholder="Optional: Send us your questions or concerns in this space"></textarea><br>
+						<textarea rows="10" id="concerns" name="concerns" cols="40" placeholder="Optional: Send us your questions or concerns in this space"></textarea><br>
 						<input type="submit" value="Send"><br><br><br>
 					</form>
 				</div>
