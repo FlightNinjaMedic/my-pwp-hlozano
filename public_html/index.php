@@ -107,7 +107,7 @@
 							<br><br>
 					</fieldset>
 					<fieldset>
-						<legend>Cases From Around The Nation</legend>
+						<legend>Stories From Around The Nation</legend>
 						<div class="row">
 							<div class="col-md-6">
 								<div class="embed-responsive embed-responsive-16by9">
