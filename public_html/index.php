@@ -7,6 +7,9 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+
+			<!-- google recaptcha -->
+		<script src='https://www.google.com/recaptcha/api.js'></script>
 		<title>The Medical Cannabis Advocate Site</title>
 
 
@@ -26,6 +29,14 @@
 		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.0.0/jquery.min.js"></script>
 		<!-- Include all compiled plugins (below), or include individual files as needed -->
+
+		<!-- jQuery Form, Additional Methods, Validate -->
+		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.form/3.51/jquery.form.min.js"></script>
+		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.15.0/jquery.validate.min.js"></script>
+		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.15.0/additional-methods.min.js"></script>
+
+		<!-- custom jquery validate -->
+
 
 		<!-- Latest compiled and minified Bootstrap JavaScript, all compiled plugins included -->
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
