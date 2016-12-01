@@ -1,7 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-
-
 	<head>
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -36,6 +34,7 @@
 		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.15.0/additional-methods.min.js"></script>
 
 		<!-- custom jquery validate -->
+		<script src="js/jquery-validate.js" type="text/javascript"></script>
 
 
 		<!-- Latest compiled and minified Bootstrap JavaScript, all compiled plugins included -->
