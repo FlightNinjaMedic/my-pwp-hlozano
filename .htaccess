@@ -1,0 +1,5 @@
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^yadohkya-coders.com$ [NC,OR]
+RewriteCond %{HTTP_HOST} ^www.yadohkya-coders.com$
+RewriteCond %{REQUEST_URI} !public_html/
+RewriteRule (.*) /public_html/$1 [L]
