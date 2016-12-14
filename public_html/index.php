@@ -60,6 +60,7 @@
 							<div class="row">
 								<div class="col-md-6">
 									<img class="img-responsive" src="images/medcan.jpg" alt="medcan">
+									<img class="img-responsive" src="images/ricksimoil.jpeg" alt="ricksimoil">
 								</div>
 								<div class="col-md-6">
 									<h3>
@@ -98,7 +99,7 @@
 									<img src="images/8monthAmylea1.jpg" alt="8monthAmylea1" class="picture">
 								</div>
 								<div class="col-md-3">
-									<img src="images/rambohm1.jpg" alt="rambohm1">
+									<img src="images/jayme.jpg" alt="jayme">
 								</div>
 								<div class="col-md-3">
 									Local Albuquerque resident, medical cannabis card holder and developer of The Medical
