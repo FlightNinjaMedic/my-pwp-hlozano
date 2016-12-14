@@ -192,7 +192,7 @@
 					<footer class="footer" style="background: lightgreen; height:50px">
 						<div class="container text-center">
 							<p class="text-muted">
-								Copyright 2016 Yadohkya-Coders.com
+								&copy 2016 Yadohkya-Coders.com
 							</p>
 						</div>
 					</footer>
